@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33318.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizShop.WASM", "BizShop.WASM\BizShop.WASM.csproj", "{4F5D40DA-4AC0-4E04-A28F-45D792EE809D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizShop.Shared", "BizShop.Shared\BizShop.Shared.csproj", "{2B7079AF-BB27-4BA3-8758-A26BAE823D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5D40DA-4AC0-4E04-A28F-45D792EE809D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5D40DA-4AC0-4E04-A28F-45D792EE809D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5D40DA-4AC0-4E04-A28F-45D792EE809D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5D40DA-4AC0-4E04-A28F-45D792EE809D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7079AF-BB27-4BA3-8758-A26BAE823D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7079AF-BB27-4BA3-8758-A26BAE823D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7079AF-BB27-4BA3-8758-A26BAE823D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7079AF-BB27-4BA3-8758-A26BAE823D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41981FC5-1D9F-4C40-8656-933B8213D118}
+	EndGlobalSection
+EndGlobal

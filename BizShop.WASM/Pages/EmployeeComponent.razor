@@ -1,0 +1,52 @@
+﻿@page "/employeecomponent"
+
+<h3>Employee Component</h3>
+
+@if(employees == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <QuickViewPopupComponent Employee="_selectedEmployee"></QuickViewPopupComponent>
+
+    <div class="row">
+        @foreach (var employee in employees)
+        {
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
+                <ErrorBoundary>
+                    <ChildContent>
+                        <EmployeeCardComponent employeeCard="employee" employeeQuickViewClicked="ShowQuickViewPopup"></EmployeeCardComponent>
+                    </ChildContent>
+                    <ErrorContent>
+                        <p class="errorUI">Invalid employee!</p>
+                    </ErrorContent>
+                </ErrorBoundary>
+            </div>
+            
+        }
+    </div>
+
+    @*<table class="table table-light">
+        <thead class="table-primary">
+            <tr>
+                <th></th>
+                <th>Employee ID</th>
+                <th>First name</th>
+                <th>Last name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in employees)
+            {
+                <tr>
+                    <td><img src="@($"https://gillcleerenpluralsight.blob.core.windows.net/person/{employee.EmployeeId}-small.jpg")" class="rounded-circle" /></td>
+                    <td>@employee.EmployeeId</td>
+                    <td>@employee.FirstName</td>
+                    <td>@employee.LastName</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>*@
+}
