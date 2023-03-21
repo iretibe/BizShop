@@ -6,4 +6,9 @@
 
 Welcome to Biz Shop.
 
+@foreach(var widgetType in Widgets)
+{
+    <DynamicComponent Type="widgetType"></DynamicComponent>
+}
+
 

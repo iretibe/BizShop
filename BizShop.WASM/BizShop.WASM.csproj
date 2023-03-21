@@ -7,12 +7,30 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Components\ProfilePictureComponent.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.11" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\BizShop.Shared\BizShop.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\ProfilePictureComponent.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Components\ProfilePictureComponent.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Components\ProfilePictureComponent.razor" />
+    <None Include="Components\Widgets\EmployeeCountWidget.razor" />
+    <None Include="Components\Widgets\InboxWidget.razor" />
   </ItemGroup>
 
 </Project>

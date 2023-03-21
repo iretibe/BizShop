@@ -69,6 +69,18 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\wwwroot\\images\\bethanylogo.png",
+      "PackagePath": "staticwebassets\\images\\bethanylogo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\wwwroot\\images\\profilePicture.jpg",
+      "PackagePath": "staticwebassets\\images\\profilePicture.jpg"
+    },
+    {
       "Id": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

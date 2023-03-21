@@ -221,6 +221,43 @@
         }
       },
       {
+        "HashCode": -1825408909,
+        "Kind": "Components.Component",
+        "Name": "BizShop.WASM.Pages.EmployeeDetailComponent_razor.EmployeeDetailComponent_razor",
+        "AssemblyName": "BizShop.WASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeeDetailComponent_razor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BizShop.WASM.Pages.EmployeeDetailComponent_razor.EmployeeDetailComponent_razor",
+          "Common.TypeNamespace": "BizShop.WASM.Pages.EmployeeDetailComponent_razor",
+          "Common.TypeNameIdentifier": "EmployeeDetailComponent_razor"
+        }
+      },
+      {
+        "HashCode": -656521687,
+        "Kind": "Components.Component",
+        "Name": "BizShop.WASM.Pages.EmployeeDetailComponent_razor.EmployeeDetailComponent_razor",
+        "AssemblyName": "BizShop.WASM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BizShop.WASM.Pages.EmployeeDetailComponent_razor.EmployeeDetailComponent_razor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BizShop.WASM.Pages.EmployeeDetailComponent_razor.EmployeeDetailComponent_razor",
+          "Common.TypeNamespace": "BizShop.WASM.Pages.EmployeeDetailComponent_razor",
+          "Common.TypeNameIdentifier": "EmployeeDetailComponent_razor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1913281577,
         "Kind": "Components.Component",
         "Name": "BizShop.WASM.App",
