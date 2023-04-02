@@ -23,6 +23,7 @@
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-7PzvEcQvpK1c8tTX9VPI8AF+XrekqbAytNBQXJjvTvQ=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-sXujvGMZDgBBZ9HqfcEq9XsM0pvwyhPt60NA9qLDzGI=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-viiXOG0fwhWobT0TQ1ZOJiZBdRvYRlWbDtjz+6d8sQI=",
+      "Microsoft.Extensions.Http.dll": "sha256-K5\/O91dt69IHKav69ftn+7DKPmnzkipTvwM4Sd4Zres=",
       "Microsoft.Extensions.Logging.dll": "sha256-GDZQCBtVHfrZZ6fL95lGoinLeUWLjQShLbfESwO7mrc=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-TeK78LW1mefI\/Ao7uFcK6TBhgjx9HUMSm3nqBsUC6pI=",
       "Microsoft.Extensions.Options.dll": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
@@ -196,15 +197,15 @@
       "mscorlib.dll": "sha256-KqZqU1imWCwJ9UPDElyoolN8s7Yqhjk67wuOohFN5KA=",
       "netstandard.dll": "sha256-kBK\/QJy7\/skP97jqnvXnOFMrhWS8HZ1bsADFK\/gZkyM=",
       "System.Private.CoreLib.dll": "sha256-3webPuyNUXfAFKY5c1tC\/jBVrjZHelBwvXrr1E9VJuk=",
-      "BizShop.Shared.dll": "sha256-4Ma6C\/4Df3nroPv2cRG0wnGq384ze4dsZoGBJAfJkUk=",
-      "BizShop.WASM.dll": "sha256-V5HWkwBEvnIRCYX2Ir4kR8MqkqSp1yL\/4l8p5cllak4="
+      "BizShop.Shared.dll": "sha256-5CSp60C44eroG2qUl7NtWAmm\/SYLpgbhfFcvK567Yq0=",
+      "BizShop.WASM.dll": "sha256-OhBJnT8PNIqCGusLQ4jZ+SuJeDQ1lwL7p6yonUXFGlE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BizShop.Shared.pdb": "sha256-NloSWvJjD6VG0CBmlZJn6GVcVL1bQjaqXEX1YBoiMtg=",
-      "BizShop.WASM.pdb": "sha256-BkRnZVzaadlTJNVIY9Op0q8TiPVCYfVI4Qe6aC2k+dM="
+      "BizShop.Shared.pdb": "sha256-2io45xn0IAKAKaz4DyqIO7KhN+3OWbT\/4tP\/JAFgD0U=",
+      "BizShop.WASM.pdb": "sha256-S7M3nQXIH0vYEz3VhXHUGeNt\/7wRuq9fx0F6fq+IreE="
     },
     "runtime": {
       "dotnet.6.0.13.itlidpbw5l.js": "sha256-X\/515F1HEzgsDZdY8BJjt8YUwrWngHGZkMnpClhsrpY=",

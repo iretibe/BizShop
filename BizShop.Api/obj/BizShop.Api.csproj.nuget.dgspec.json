@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\BizShop.Api.csproj": {}
+    "C:\\PROJECT\\BizShop\\BizShop.Api\\BizShop.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\BizShop.Api.csproj": {
+    "C:\\PROJECT\\BizShop\\BizShop.Api\\BizShop.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
+        "projectUniqueName": "C:\\PROJECT\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
         "projectName": "BizShop.Api",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
+        "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\obj\\",
+        "outputPath": "C:\\PROJECT\\BizShop\\BizShop.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj"
+              "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
+                "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj"
               },
-              "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj"
+              "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj": {
+                "projectPath": "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
+    "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
+        "projectUniqueName": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
         "projectName": "BizShop.Shared",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
+        "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\obj\\",
+        "outputPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -170,14 +170,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj": {
+    "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj",
+        "projectUniqueName": "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj",
         "projectName": "BizShop.WASM",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj",
+        "projectPath": "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\obj\\",
+        "outputPath": "C:\\PROJECT\\BizShop\\BizShop.WASM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -200,8 +200,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj"
+              "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
+                "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj"
               }
             }
           }
@@ -224,6 +224,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

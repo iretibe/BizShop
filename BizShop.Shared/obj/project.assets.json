@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
+      "projectUniqueName": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
       "projectName": "BizShop.Shared",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
+      "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\obj\\",
+      "outputPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

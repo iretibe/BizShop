@@ -10,3 +10,15 @@ C:\Users\hp\source\repos\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.
 C:\Users\hp\source\repos\BizShop\BizShop.Shared\obj\Debug\net6.0\refint\BizShop.Shared.dll
 C:\Users\hp\source\repos\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.pdb
 C:\Users\hp\source\repos\BizShop\BizShop.Shared\obj\Debug\net6.0\ref\BizShop.Shared.dll
+C:\PROJECT\BizShop\BizShop.Shared\bin\Debug\net6.0\BizShop.Shared.deps.json
+C:\PROJECT\BizShop\BizShop.Shared\bin\Debug\net6.0\BizShop.Shared.dll
+C:\PROJECT\BizShop\BizShop.Shared\bin\Debug\net6.0\BizShop.Shared.pdb
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.csproj.AssemblyReference.cache
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.AssemblyInfoInputs.cache
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.AssemblyInfo.cs
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.csproj.CoreCompileInputs.cache
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.dll
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\refint\BizShop.Shared.dll
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\BizShop.Shared.pdb
+C:\PROJECT\BizShop\BizShop.Shared\obj\Debug\net6.0\ref\BizShop.Shared.dll

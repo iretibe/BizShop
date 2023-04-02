@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bR+PseAKQ256LoLIkb4qsFd1E5e61oVsnj7BOlB66cKdv6xjFQj6AeOzlrE4BZKggOhP3+zXIr8StwOm2VIog==",
+  "dgSpecHash": "mWFILRE4N53oK1nM/g1Qhgr3FtNJkYYgJn+aFZ4uihDHe3i5f/37BIqn5GqoLS40mAPpPY+b23Jl8UYHGAWJLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj",
+  "projectFilePath": "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\microsoft.aspnetcore.authorization.6.0.11.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\microsoft.aspnetcore.components.6.0.11.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

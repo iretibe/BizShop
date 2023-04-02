@@ -1,18 +1,23 @@
 ﻿using BizShop.Shared.Domain;
-using BizShop.WASM.Models;
+using BizShop.WASM.Services;
+using Microsoft.AspNetCore.Components;
 
 namespace BizShop.WASM.Pages
 {
     public partial class EmployeeComponent
     {
-        public List<Employee>? employees { get; set; } = default!;
-        private Employee? _selectedEmployee;
+        [Inject]
+        public IEmployeeDataService employeeDataService { get; set; }
+
+        public List<Employee> employees { get; set; } = default!;
+
+        private Employee _selectedEmployee;
 
         private string Title = "Employee Overview";
 
-        protected override void OnInitialized()
+        protected override async Task OnInitializedAsync()
         {
-            employees = MockDataService.Employees;
+            employees = (await employeeDataService.GetAllEmployees()).ToList();
         }
 
         public void ShowQuickViewPopup(Employee selectedEmployee)

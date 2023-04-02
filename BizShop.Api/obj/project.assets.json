@@ -553,6 +553,25 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "Microsoft.Extensions.Http/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -1236,7 +1255,8 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "BizShop.Shared": "1.0.0",
-          "Microsoft.AspNetCore.Components.WebAssembly": "6.0.11"
+          "Microsoft.AspNetCore.Components.WebAssembly": "6.0.11",
+          "Microsoft.Extensions.Http": "6.0.0"
         },
         "compile": {
           "bin/placeholder/BizShop.WASM.dll": {}
@@ -1947,6 +1967,25 @@
         "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.xml",
         "microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
         "microsoft.extensions.filesystemglobbing.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Http/6.0.0": {
+      "sha512": "15+pa2G0bAMHbHewaQIdr/y6ag2H3yh4rd9hTXavtWDzQBkvpe2RMqFg8BxDpcQWssmjmBApGPcw93QRz6YcMg==",
+      "type": "package",
+      "path": "microsoft.extensions.http/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Http.dll",
+        "lib/net461/Microsoft.Extensions.Http.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.xml",
+        "microsoft.extensions.http.6.0.0.nupkg.sha512",
+        "microsoft.extensions.http.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -3045,11 +3084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
+      "projectUniqueName": "C:\\PROJECT\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
       "projectName": "BizShop.Api",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
+      "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Api\\BizShop.Api.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Api\\obj\\",
+      "outputPath": "C:\\PROJECT\\BizShop\\BizShop.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3072,11 +3111,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj"
+            "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj": {
+              "projectPath": "C:\\PROJECT\\BizShop\\BizShop.Shared\\BizShop.Shared.csproj"
             },
-            "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj"
+            "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj": {
+              "projectPath": "C:\\PROJECT\\BizShop\\BizShop.WASM\\BizShop.WASM.csproj"
             }
           }
         }
